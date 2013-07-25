@@ -1,0 +1,22 @@
+{
+  "name": "42am-team",
+  "version": "0.0.1",
+  "description": "42am team as an Array",
+  "main": "lib/index.js",
+  "keywords": [
+    "42am"
+    "members",
+    "cv",
+    "person",
+    "npm-as-a-backend"
+  ],
+  "author": {
+    "name": "Arnaud 'red' Rouyer",
+    "email": "josh.guthrie@gmail.com"
+  },
+  "dependencies": {
+    "manfred-touron": "latest"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
