@@ -4,12 +4,16 @@
   "description": "42am team as an Array",
   "main": "lib/index.js",
   "keywords": [
-    "42am"
+    "42am",
     "members",
     "cv",
     "person",
     "npm-as-a-backend"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joshleaves/42am-team.git"
+  },
   "author": {
     "name": "Arnaud 'red' Rouyer",
     "email": "josh.guthrie@gmail.com"
